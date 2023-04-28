@@ -11,14 +11,15 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable round_bg
 id btnFollow
+id btnMessage
 id linearLayout
-id msgButton
 id userDesc
 id userImage
 id userName
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap sym_def_app_icon_foreground
 string app_name
 string button_text_follow
 string button_text_message
