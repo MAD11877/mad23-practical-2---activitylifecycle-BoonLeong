@@ -2800,6 +2800,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable round_bg
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3282,8 +3283,7 @@ id unlabeled
 id up
 id useLogo
 id userDesc
-id userIcon
-id userIconBg
+id userImage
 id userName
 id vertical_only
 id view_offset_helper

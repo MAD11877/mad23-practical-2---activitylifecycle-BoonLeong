@@ -9,13 +9,13 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable round_bg
 id cardView
 id followButton
 id linearLayout
 id msgButton
 id userDesc
-id userIcon
-id userIconBg
+id userImage
 id userName
 layout activity_main
 mipmap ic_launcher

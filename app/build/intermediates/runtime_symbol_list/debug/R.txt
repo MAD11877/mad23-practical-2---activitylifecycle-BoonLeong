@@ -2799,6 +2799,7 @@ int drawable notification_template_icon_bg 0x7f0700d8
 int drawable notification_template_icon_low_bg 0x7f0700d9
 int drawable notification_tile_bg 0x7f0700da
 int drawable notify_panel_notification_icon_bg 0x7f0700db
+int drawable round_bg 0x7f0700df
 int drawable test_level_drawable 0x7f0700dc
 int drawable tooltip_frame_dark 0x7f0700dd
 int drawable tooltip_frame_light 0x7f0700de
@@ -3281,8 +3282,7 @@ int id unlabeled 0x7f0801dc
 int id up 0x7f0801dd
 int id useLogo 0x7f0801de
 int id userDesc 0x7f0801df
-int id userIcon 0x7f0801e0
-int id userIconBg 0x7f0801e1
+int id userImage 0x7f0801f5
 int id userName 0x7f0801e2
 int id vertical_only 0x7f0801e3
 int id view_offset_helper 0x7f0801e4
