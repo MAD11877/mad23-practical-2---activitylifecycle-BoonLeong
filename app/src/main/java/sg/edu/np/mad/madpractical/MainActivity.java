@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button followButton = (Button) findViewById(R.id.followButton);
+        Button followButton = (Button) findViewById(R.id.btnFollow);
         TextView userName = (TextView) findViewById(R.id.userName);
         TextView userDesc = (TextView) findViewById(R.id.userDesc);
 
