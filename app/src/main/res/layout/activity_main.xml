@@ -88,7 +88,7 @@
                     app:cardMaxElevation="0dp">
 
                     <Button
-                        android:id="@+id/msgButton"
+                        android:id="@+id/btnMessage"
                         android:layout_width="120dp"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
