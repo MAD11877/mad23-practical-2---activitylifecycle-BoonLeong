@@ -1,4 +1,4 @@
-package com.example.leongsapplication;
+package sg.edu.np.mad.madpractical;
 
 public class User {
     public String name;
