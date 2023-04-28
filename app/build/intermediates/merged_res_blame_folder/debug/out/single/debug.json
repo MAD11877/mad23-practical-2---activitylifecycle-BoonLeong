@@ -40,10 +40,6 @@
         "source": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.leongsapplication.app-merged_res-28:/drawable_round_bg.xml.flat",
-        "source": "com.example.leongsapplication.app-main-30:/drawable/round_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
@@ -54,6 +50,10 @@
     {
         "merged": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-merged_res-28:\\drawable_round_bg.xml.flat",
+        "source": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-main-30:\\drawable\\round_bg.xml"
     },
     {
         "merged": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",

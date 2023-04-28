@@ -10,8 +10,7 @@ color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable round_bg
-id cardView
-id followButton
+id btnFollow
 id linearLayout
 id msgButton
 id userDesc

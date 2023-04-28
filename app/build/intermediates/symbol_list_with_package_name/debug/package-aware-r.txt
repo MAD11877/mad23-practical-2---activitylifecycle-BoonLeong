@@ -2902,11 +2902,11 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnFollow
 id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
-id cardView
 id carryVelocity
 id center
 id centerCrop
@@ -2998,7 +2998,6 @@ id fitXY
 id fixed
 id flip
 id floating
-id followButton
 id forever
 id fragment_container_view_tag
 id frost
