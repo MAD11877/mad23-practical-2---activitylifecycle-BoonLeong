@@ -4,12 +4,12 @@
         "source": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-main-30:\\mipmap-mdpi\\sym_def_app_icon_foreground.png"
     },
     {
-        "merged": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-merged_res-28:\\mipmap-xxhdpi_sym_def_app_icon_foreground.png.flat",
         "source": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-main-30:\\mipmap-xxhdpi\\sym_def_app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-merged_res-28:\\mipmap-xxxhdpi_sym_def_app_icon_foreground.png.flat",
@@ -50,6 +50,10 @@
     {
         "merged": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.leongsapplication.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.leongsapplication.app-main-30:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\gohbo\\.gradle\\daemon\\8.0\\com.example.leongsapplication.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
