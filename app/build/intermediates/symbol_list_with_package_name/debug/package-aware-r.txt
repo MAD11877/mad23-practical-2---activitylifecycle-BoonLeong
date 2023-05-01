@@ -2908,6 +2908,7 @@ id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
+id cardView
 id carryVelocity
 id center
 id centerCrop
@@ -3532,6 +3533,7 @@ string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string clear_text_end_icon_content_description
+string content_desc_userImage
 string desc_placeholder
 string error_a11y_label
 string error_icon_content_description

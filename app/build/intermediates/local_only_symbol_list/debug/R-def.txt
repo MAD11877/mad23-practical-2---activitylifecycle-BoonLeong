@@ -12,6 +12,7 @@ drawable ic_launcher_foreground
 drawable round_bg
 id btnFollow
 id btnMessage
+id cardView
 id linearLayout
 id userDesc
 id userImage
@@ -23,6 +24,7 @@ string app_name
 string button_text_follow
 string button_text_message
 string button_text_unfollow
+string content_desc_userImage
 string desc_placeholder
 style Theme.LeongsApplication
 xml backup_rules

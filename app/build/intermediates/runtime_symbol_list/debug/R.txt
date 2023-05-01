@@ -2907,6 +2907,7 @@ int id buttonPanel 0x7f080064
 int id cache_measures 0x7f080065
 int id callMeasure 0x7f080066
 int id cancel_button 0x7f080067
+int id cardView 0x7f0801f2
 int id carryVelocity 0x7f080068
 int id center 0x7f080069
 int id centerCrop 0x7f08006a
@@ -3531,6 +3532,7 @@ int string character_counter_content_description 0x7f0f0027
 int string character_counter_overflowed_content_description 0x7f0f0028
 int string character_counter_pattern 0x7f0f0029
 int string clear_text_end_icon_content_description 0x7f0f002a
+int string content_desc_userImage 0x7f0f009f
 int string desc_placeholder 0x7f0f002b
 int string error_a11y_label 0x7f0f002c
 int string error_icon_content_description 0x7f0f002d
