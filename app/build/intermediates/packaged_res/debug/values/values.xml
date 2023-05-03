@@ -13,7 +13,7 @@
     <string name="button_text_unfollow">UNFOLLOW</string>
     <string name="content_desc_userImage">Profile Image</string>
     <string name="desc_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
-    <style name="Theme.LeongsApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.MADPractical" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
