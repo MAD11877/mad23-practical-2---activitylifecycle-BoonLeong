@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="sg.edu.np.mad.madpractical.MainActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -71,7 +71,18 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1">
+                    android:layout_weight="1"
+                    android:elevation="0dp"
+                    app:cardElevation="0dp"
+                    app:cardMaxElevation="0dp" />
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0"
+                    android:elevation="0dp"
+                    app:cardElevation="0dp"
+                    app:cardMaxElevation="0dp">
 
                     <Button
                         android:id="@+id/btnFollow"
@@ -85,7 +96,18 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1">
+                    android:layout_weight="1"
+                    android:elevation="0dp"
+                    app:cardElevation="0dp"
+                    app:cardMaxElevation="0dp" />
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0"
+                    android:elevation="0dp"
+                    app:cardElevation="0dp"
+                    app:cardMaxElevation="0dp">
 
                     <Button
                         android:id="@+id/btnMessage"
@@ -95,6 +117,14 @@
                         android:text="@string/button_text_message"
                         android:textAlignment="center" />
                 </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:elevation="0dp"
+                    app:cardElevation="0dp"
+                    app:cardMaxElevation="0dp" />
 
             </LinearLayout>
 
